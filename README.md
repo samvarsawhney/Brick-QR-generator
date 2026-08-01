@@ -30,3 +30,8 @@ Generate an `.ldr` file containing a LEGO® brick QR code for any URL. The gener
 4. The script will generate an `.ldr` file containing the LEGO brick QR code.
 
 5. Open the generated `.ldr` file in BrickLink Studio to view, edit, or export the model.
+
+## Sample Render of Generated QR
+
+<img width="1080" height="1080" alt="270338 QR" src="https://github.com/user-attachments/assets/4fe1dff2-92fc-4b25-9a89-e1b766a8bad3" />
+
