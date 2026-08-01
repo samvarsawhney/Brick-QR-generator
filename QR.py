@@ -43,7 +43,7 @@ for y in range(sh):
 lines.append("0 NOFILE")
 
 # Ask for filename
-filename = input("Save mosaic as (no extension): ").strip()
+filename = input("Enter output file name (no extension): ").strip()
 if not filename:
     filename = "qr_mosaic"
 filename = filename + ".ldr"
